@@ -12,7 +12,7 @@
 
      
 
-## Cursos | Certificados
+## Cursos:
  Bootcamp Microsoft:  Prompts Inteligentes ➡️ [Certificado](https://hermes.dio.me/certificates/LGVPEQYH.pdf)
 
  Príncipios do Git e Github ➡️ [Certificado](https://hermes.dio.me/certificates/ITNR6GM0.pdf)
