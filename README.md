@@ -9,7 +9,15 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=20px/>     [Acesse meu LinkedIN](https://www.linkedin.com/in/guilhermepucci/)
-          
+
+     
+
+## Cursos | Certificados
+ Bootcamp Microsoft:  Prompts Inteligentes ➡️ [Certificado](https://hermes.dio.me/certificates/LGVPEQYH.pdf)
+
+ Príncipios do Git e Github ➡️ [Certificado](https://hermes.dio.me/certificates/ITNR6GM0.pdf)
+
+
 
 
 <!--
