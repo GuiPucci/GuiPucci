@@ -5,7 +5,7 @@
 
 👷 Sou Engenheiro Civil, Técnico em montagem e manutenção de Hardware
 
-💀 Com o objetivo de reornar a programação, estou iniciando no Python
+💀 Com o objetivo de iniciar no mundo da programação.
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=20px/>     [Acesse meu LinkedIN](https://www.linkedin.com/in/guilhermepucci/)
