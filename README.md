@@ -1,5 +1,10 @@
-<center><h2> Sejam Bem-Vindos! <center><h2>
+##Sejam Bem-Vindos!
 
+🐻 Olá, me chamo Guiherme Pucci!
+
+👷 Sou Engenheiro Civil, Técnico em montagem e manutenção de Hardware
+
+💀 Com o objetivo de reornar a programação, estou iniciando no Python
 
 
 <!--
