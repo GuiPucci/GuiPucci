@@ -1,9 +1,9 @@
 ## Sejam Bem-Vindos!
 <BR>
 
-🐻 Olá, me chamo Guiherme Pucci!
+💀 Olá, me chamo Guiherme Pucci!
 
-👷 Sou Engenheiro Civil, Técnico em montagem e manutenção de Hardware
+💀 Sou Engenheiro Civil, Técnico em montagem e manutenção de Hardware
 
 💀 Com o objetivo de iniciar no mundo da programação
 
