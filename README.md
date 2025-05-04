@@ -1,31 +1,51 @@
-## Sejam Bem-Vindos!
-<BR>
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="banner.jpeg" alt="Banner GuiPucci" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-💀 Olá, me chamo Guiherme Pucci!
+---
 
-💀 Sou Engenheiro Civil, Técnico em montagem e manutenção de Hardware
+## 👨‍🎓 Sobre mim
 
-💀 Com o objetivo de iniciar no mundo da programação
+- 🎓 **Formação:** Engenharia Civil - FMU
+- 💻 **Transição de carreira:** Iniciando no mundo da programação, com foco em backend.
+- 🌈 **Tecnologias favoritas:** Python, Git, GitHub
+- 🌍 **Idiomas:** Português (fluente), Inglês (intermediário), Espanhol (básico)
 
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=20px/>     [Acesse meu LinkedIN](https://www.linkedin.com/in/guilhermepucci/)
+## 🚀 Projetos em destaque
 
-     
+- [organizador_arquivos](https://github.com/GuiPucci/organizador_arquivos): Organizador automático de arquivos por extensão  
+- [encontrar_duplicatas](https://github.com/GuiPucci/encontrar_duplicados): Localizador e agrupador de arquivos duplicados  
+- [MyLVC](https://github.com/GuiPucci/My_Local_Version_Control): Controle de versão local didático em Python
 
-## Cursos:
- Bootcamp Microsoft 50 Anos - Prompts Inteligentes ➡️ [Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
+---
 
- Formação Github Certification ➡️ [Certificado](https://hermes.dio.me/certificates/RAD2YLT2.pdf)
+## 🎓 Cursos e Certificações
 
+- 🧠 **Bootcamp Microsoft 50 Anos - Prompts Inteligentes**  
+  [Ver Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
 
+- 🛡️ **Formação Github Certification**  
+  [Ver Certificado](https://hermes.dio.me/certificates/RAD2YLT2.pdf)
 
+- 🐍 **Introdução à programação com Python**  
+  [Ver Certificado](https://hermes.dio.me/certificates/ZBOTQXWU.pdf)
 
-<!--
-**GuiPucci/GuiPucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Como me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- [LinkedIn](https://www.linkedin.com/in/guilhermepucci/)
+- [E-mail](mailto:guilhermepucci.eng@gmail.com)
 
--->
+---
+
+**Obrigado por visitar!**  
+Sinta-se à vontade para explorar meus repositórios, abrir issues ou sugerir melhorias.  
+Vamos construir juntos soluções criativas! 🚀
