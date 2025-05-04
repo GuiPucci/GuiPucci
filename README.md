@@ -13,9 +13,15 @@
      
 
 ## Cursos:
- Bootcamp Microsoft 50 Anos - Prompts Inteligentes ➡️ [Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
 
- Formação Github Certification ➡️ [Certificado](https://hermes.dio.me/certificates/RAD2YLT2.pdf)
+➡️ Bootcamp Microsoft 50 Anos - Prompts Inteligentes :
+    [Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
+
+➡️ Formação Github Certification:
+    [Certificado](https://hermes.dio.me/certificates/RAD2YLT2.pdf)
+
+➡️ Curso Introdução à programação com Python
+    [Certificado](https://hermes.dio.me/certificates/ZBOTQXWU.pdf)
 
 
 
