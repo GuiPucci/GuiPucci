@@ -23,12 +23,8 @@
 - [encontrar_duplicatas](https://github.com/GuiPucci/encontrar_duplicados): Localizador e agrupador de arquivos duplicados  
 - [MyLVC](https://github.com/GuiPucci/My_Local_Version_Control): Controle de versão local didático em Python
 
-<<<<<<< HEAD
----
 
 ## 🎓 Cursos e Certificações
-=======
-## Cursos:
 
 - 🧠 **Bootcamp Microsoft 50 Anos - Prompts Inteligentes**  
   [Ver Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
