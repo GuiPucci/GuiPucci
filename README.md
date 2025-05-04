@@ -1,4 +1,3 @@
-<!-- Banner personalizado -->
 <p align="center">
   <img src="banner.jpeg" alt="Banner GuiPucci" />
 </p>
