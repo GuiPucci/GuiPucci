@@ -24,9 +24,22 @@
 - [encontrar_duplicatas](https://github.com/GuiPucci/encontrar_duplicados): Localizador e agrupador de arquivos duplicados  
 - [MyLVC](https://github.com/GuiPucci/My_Local_Version_Control): Controle de versão local didático em Python
 
+<<<<<<< HEAD
 ---
 
 ## 🎓 Cursos e Certificações
+=======
+## Cursos:
+
+➡️ Bootcamp Microsoft 50 Anos - Prompts Inteligentes :
+    [Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
+
+➡️ Formação Github Certification:
+    [Certificado](https://hermes.dio.me/certificates/RAD2YLT2.pdf)
+
+➡️ Curso Introdução à programação com Python
+    [Certificado](https://hermes.dio.me/certificates/ZBOTQXWU.pdf)
+>>>>>>> 511c06e336827556a9e6be77201810370d2f8f1f
 
 - 🧠 **Bootcamp Microsoft 50 Anos - Prompts Inteligentes**  
   [Ver Certificado](https://hermes.dio.me/certificates/JURKRNPL.pdf)
