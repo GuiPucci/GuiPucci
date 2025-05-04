@@ -1,3 +1,6 @@
+<p align="center">
+  ![banner](https://github.com/user-attachments/assets/e6f1978f-432a-4f2b-94a4-b696958c53b8)
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
