@@ -1,7 +1,6 @@
 <p align="center">
-  ![banner](https://github.com/user-attachments/assets/e6f1978f-432a-4f2b-94a4-b696958c53b8)
+  <img src="assets/banner.jpeg" alt="Banner GuiPucci" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
