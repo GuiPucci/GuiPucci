@@ -12,7 +12,7 @@
 
 - 🎓 **Formação:** Engenharia Civil - FMU
 - 💻 **Transição de carreira:** Iniciando no mundo da programação, com foco em backend.
-- 🌈 **Tecnologias favoritas:** Python, Git, GitHub
+- 🛠️ **Tecnologias favoritas:** Python, Git, GitHub
 - 🌍 **Idiomas:** Português (fluente), Inglês (intermediário), Espanhol (básico)
 
 ---
